@@ -1,7 +1,7 @@
 <?php
 
-require _DIR_ . "/vendor/autoload.php";
+require __DIR__ . "/vendor/autoload.php";
 
-include _DIR_ . "/includes/header.php";
-include _DIR_ . "/includes/formulario.php";
-include _DIR_ . "/includes/footer.php";
+include __DIR__ . "/includes/header.php";
+include __DIR__ . "/includes/formulario.php";
+include __DIR__ . "/includes/footer.php";

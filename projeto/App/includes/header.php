@@ -19,5 +19,8 @@
         <p>Exemplo de crud com php orientados a objetos</p>
         
         </div>
+</boby>
+
+</html>        
 
  

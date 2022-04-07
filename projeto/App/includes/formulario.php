@@ -8,7 +8,7 @@
         </a>
     </section>
 
-    <h2 class="mt-3">cadastrar vagas</h2>
+    <h2 class="mt-3">cadastrar vaga</h2>
 
     <form method="post">
 
@@ -43,13 +43,11 @@
         </div>
 
         <div class="form-group">
-            <button type="submit" class="btn btn-success">ENVIAR
 
-            </button>
+            <button type="submit" class="btn btn-success">ENVIAR</button>
 
         </div>
     
-
 </form>
 
 </main>    

@@ -7,11 +7,11 @@ use \App\Entity\Vaga;
 //VALIDAÇAO DO POST
 if(isset($_POST['titulo'],$_POST['descriçao'],$_POST['ativo'])){
 
-  $obVaga = new Vaga;
-  $obVaga->titulo      = $_POST['titulo'];
-  $obVaga->descriçao   = $_POST['descriçao'];
-  $obVaga->ativo       = $_POST['ativo'];
-  $obVaga->cadastrar();  
+  $obprojeto = new Vaga;
+  $obprojeto->titulo      = $_POST['titulo'];
+  $obprojeto->descriçao   = $_POST['descriçao'];
+  $obprojeto->ativo       = $_POST['ativo'];
+  $obprojeto->cadastrar();  
 
 
 } 
